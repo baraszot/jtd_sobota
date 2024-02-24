@@ -1,6 +1,7 @@
 ---
 title: markdown w just-the-docs
 layout: default
+has_children: true
 nav_order: 2
 ---
 
