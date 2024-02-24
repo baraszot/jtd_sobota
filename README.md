@@ -1,3 +1,5 @@
+to są zajęcia 24.02
+
 # just-the-docs-template
 
 This is a *bare-minimum* template to create a [Jekyll] site that:
