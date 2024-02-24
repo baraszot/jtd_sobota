@@ -181,7 +181,7 @@ Format to:
 
 Co daje w dokumencie wyjściowym następujący efekt:
 
-![Zdjęcie twórców Markdowna](chlopaki.png)
+![Zdjęcie twórców Markdowna](../images/chlopaki.png)
 
 (Folder, w którym znajduje się plik .md, jest domyślną ścieżką, więc dla znajdujących się w nim plików graficznych wystarcza samo podanie ich nazwy.)
 
