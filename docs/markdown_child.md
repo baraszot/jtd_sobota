@@ -1,5 +1,5 @@
 ---
-title: markdown w just-the-docs
+title: markdown child
 layout: default
 parent: markdown w just-the-docs
 nav_order: 1
