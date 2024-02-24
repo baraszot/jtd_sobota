@@ -1,3 +1,8 @@
+---
+title: markdown w just-the-docs
+layout: default
+---
+
 # Podstawowa składnia Markdowna<!-- omit in toc -->
 
 Markdown to uproszczony język znaczników do tworzenia sformatowanego tekstu w prostych edytorach.
