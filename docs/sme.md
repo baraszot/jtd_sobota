@@ -1,6 +1,7 @@
 ---
 title: artykuł sme
 layout: default
+nav_order: 3
 ---
 
 What To Do When Your SME Is Not Responding To Your Emails

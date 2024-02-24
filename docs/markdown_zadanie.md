@@ -1,6 +1,7 @@
 ---
 title: markdown w just-the-docs
 layout: default
+nav_order: 2
 ---
 
 # Podstawowa składnia Markdowna<!-- omit in toc -->
